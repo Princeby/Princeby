@@ -19,11 +19,6 @@ I build production-grade blockchain infrastructure:
   Cross-chain DeFi copilot enabling Ethereum ↔ Polkadot swaps using natural language.  
   Tech: Solidity, Substrate, 1inch Fusion+, TypeScript  
   Repo: https://github.com/Princeby/defi-copilot
-
-- **Aquila**  
-  Tokenized remittance platform with on-chain settlement and off-chain rails.  
-  Tech: Solidity, Node.js, PostgreSQL  
-  Repo: https://github.com/Princeby/aquila
   
 ### Engineering Focus
 - Protocol and system design
