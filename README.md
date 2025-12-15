@@ -31,8 +31,6 @@ I build production-grade blockchain infrastructure:
 - Cross-chain interoperability
 - Gas optimization and failure modes
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Princeby&show_icons=true&hide_title=true)
-
 ### Connect
 - GitHub: https://github.com/Princeby
 - Twitter: https://twitter.com/emphatetic_bee
