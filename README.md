@@ -31,6 +31,22 @@ I build production-grade blockchain infrastructure:
 - Twitter: https://twitter.com/emphatetic_bee
 - Email: ogbodoebuka2@gmail.com
 
+- **Academic Verification System**  
+  Decentralized credential verification platform leveraging blockchain for tamper-proof academic records.
+  Tech: Smart Contracts, IPFS, Zero-Knowledge Proofs, Web3, Typescript
+  Repo: https://github.com/Princeby/academic-verification
+  
+### Engineering Focus
+- Immutable credential storage
+- Privacy-preserving verification
+- Institution-issued digital certificates
+- Cross-institutional verification network
+
+### Connect
+- GitHub: https://github.com/Princeby
+- Twitter: https://twitter.com/emphatetic_bee
+- Email: ogbodoebuka2@gmail.com
+
 
 <!--
 **Princeby/Princeby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
