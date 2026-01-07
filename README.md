@@ -19,24 +19,16 @@ I build production-grade blockchain infrastructure:
   Cross-chain DeFi copilot enabling Ethereum ↔ Polkadot swaps using natural language.  
   Tech: Solidity, Substrate, 1inch Fusion+, TypeScript  
   Repo: https://github.com/Princeby/defi-copilot
+- **Academic Verification System**  
+  Decentralized credential verification platform leveraging blockchain for tamper-proof academic records.
+  Tech: Substrate, FRAME, IPFS, Zero-Knowledge Proofs, Typescript
+  Repo: https://github.com/Princeby/academic-verification
   
 ### Engineering Focus
 - Protocol and system design
 - Security-first smart contract development
 - Cross-chain interoperability
 - Gas optimization and failure modes
-
-### Connect
-- GitHub: https://github.com/Princeby
-- Twitter: https://twitter.com/emphatetic_bee
-- Email: ogbodoebuka2@gmail.com
-
-- **Academic Verification System**  
-  Decentralized credential verification platform leveraging blockchain for tamper-proof academic records.
-  Tech: Smart Contracts, IPFS, Zero-Knowledge Proofs, Web3, Typescript
-  Repo: https://github.com/Princeby/academic-verification
-  
-### Engineering Focus
 - Immutable credential storage
 - Privacy-preserving verification
 - Institution-issued digital certificates
