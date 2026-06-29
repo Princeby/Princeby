@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Ogbodo 👋
+# Hi, I'm Ebuka Samuel Ogbodo 👋
 
 ## Backend Software Engineer | FinTech | Distributed Systems | Blockchain
 
